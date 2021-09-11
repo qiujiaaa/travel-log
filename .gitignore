@@ -1,1 +1,4 @@
+# server
 /server/node_modules
+/server/.prettierrc
+/server/.env
